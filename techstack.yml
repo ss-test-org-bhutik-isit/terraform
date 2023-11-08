@@ -1,7 +1,7 @@
 repo_name: DotEspartoORGForPersonal/terraform-provider-aws
-report_id: c9c9043ae3ecee2bd1d6f0c9d849745f
+report_id: b0b1b248dd635c67a9619e19c9bee41a
 repo_type: Public
-timestamp: '2023-11-08T11:56:31+00:00'
+timestamp: '2023-11-08T16:24:46+00:00'
 requested_by: dependabot[bot]
 provider: github
 branch: main
@@ -359,14 +359,12 @@ tools:
   description: A toolkit with common assertions and mocks that plays nicely with the
     standard library
   website_url: https://github.com/stretchr/testify
-  version: 1.2.2
   license: MIT
   open_source: true
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Go Testing
   image_url: https://img.stackshare.io/service/8695/stretchr.png
-  detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
