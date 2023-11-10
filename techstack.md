@@ -138,8 +138,8 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEspartoORGForPersonal/terraform-provider-aws](https://github.com/DotEspartoORGForPersonal/terraform-provider-aws)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|113<br/>Tools used|352<br/>Contributors|11/08/23 <br/>Report generated|05/10/23<br/>Last commit date|
-|------|------|------|------|
+|113<br/>Tools used|11/10/23 <br/>Report generated|
+|------|------|
 </div>
 
 ## <img src='https://img.stackshare.io/languages.svg'/> Languages (6)
@@ -888,39 +888,39 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[apiversions](https://pkg.go.dev/github.com/gophercloud/gophercloud/openstack/blockstorage/v1/apiversions)|v0.3.4|N/A|N/A |Other|N/A|
-|[clientcmd/api](https://pkg.go.dev/k8s.io/kubernetes/pkg/client/unversioned/clientcmd/api)|v1.3.1|N/A|N/A |Apache-2.0|N/A|
-|[dockerclient](https://pkg.go.dev/github.com/samalba/dockerclient)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
-|[fsnotify](https://pkg.go.dev/github.com/fsnotify/fsnotify)|v1.5.4|N/A|N/A |BSD-3-Clause|N/A|
-|[gensupport](https://pkg.go.dev/google.golang.org/api/gensupport)|v1.7.0|N/A|N/A |BSD-3-Clause|N/A|
-|[go-restful](https://pkg.go.dev/github.com/emicklei/go-restful)|v0.0.0|N/A|N/A |MIT|N/A|
-|[go-uuid/uuid](https://pkg.go.dev/code.google.com/p/go-uuid/uuid)|v0.1.2|N/A|N/A |N/A|N/A|
-|[gofuzz](https://pkg.go.dev/github.com/google/gofuzz)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
-|[gojsonpointer](https://pkg.go.dev/github.com/xeipuuv/gojsonpointer)|v0.8.1|N/A|N/A |Apache-2.0|N/A|
-|[gomega](https://pkg.go.dev/github.com/onsi/gomega)|v1.4.0|N/A|N/A |MIT|N/A|
-|[govcloudair](https://pkg.go.dev/github.com/vmware/govcloudair)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
-|[hcl](https://pkg.go.dev/github.com/hashicorp/hcl)|v1.2.0|N/A|N/A |MPL-2.0|N/A|
-|[httplex](https://pkg.go.dev/golang.org/x/net/lex/httplex)|v0.3.0|N/A|N/A |BSD-3-Clause|N/A|
-|[iterator](https://pkg.go.dev/google.golang.org/api/iterator)|v1.4.1|N/A|N/A |BSD-3-Clause|N/A|
-|[json-patch](https://pkg.go.dev/github.com/evanphx/json-patch)|v0.5.10|N/A|N/A |BSD-3-Clause|N/A|
-|[mapstructure](https://pkg.go.dev/github.com/mitchellh/mapstructure)|v0.5.0|N/A|N/A |MIT|N/A|
-|[pbkdf2](https://pkg.go.dev/golang.org/x/crypto/pbkdf2)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
-|[pkcs11](https://pkg.go.dev/github.com/miekg/pkcs11)|v1.0.0|N/A|N/A |BSD-3-Clause|N/A|
-|[pkg/apis/extensions](https://pkg.go.dev/k8s.io/client-go/pkg/apis/extensions)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
-|[pp](https://pkg.go.dev/github.com/k0kubun/pp)|v1.0.0|N/A|N/A |MIT|N/A|
-|[properties](https://pkg.go.dev/github.com/magiconair/properties)|v0.0.0|N/A|N/A |BSD-2-Clause|N/A|
-|[protocol/ec2query](https://pkg.go.dev/github.com/aws/aws-sdk-go/internal/protocol/ec2query)|v1.14.1|N/A|N/A |Apache-2.0|N/A|
-|[registry/service](https://pkg.go.dev/k8s.io/kubernetes/pkg/registry/service)|v1.1.4|N/A|N/A |Apache-2.0|N/A|
-|[swift](https://pkg.go.dev/github.com/ncw/swift)|v1.0.0|N/A|N/A |MIT|N/A|
-|[testify/mock](https://pkg.go.dev/github.com/stretchr/testify/mock)|v1.1.0|N/A|N/A |MIT|N/A|
-|[virtualmachinedisk](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/management/virtualmachinedisk)|v1.0.1|N/A|N/A |MIT|N/A|
+|[apiversions](https://pkg.go.dev/github.com/gophercloud/gophercloud/openstack/blockstorage/v1/apiversions)|v0.3.4|04/24/23|dependabot[bot] |Other|N/A|
+|[clientcmd/api](https://pkg.go.dev/k8s.io/kubernetes/pkg/client/unversioned/clientcmd/api)|v1.3.1|04/24/23|dependabot[bot] |Apache-2.0|N/A|
+|[dockerclient](https://pkg.go.dev/github.com/samalba/dockerclient)|v0.0.0|04/24/23|dependabot[bot] |Apache-2.0|N/A|
+|[fsnotify](https://pkg.go.dev/github.com/fsnotify/fsnotify)|v1.5.4|04/24/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[gensupport](https://pkg.go.dev/google.golang.org/api/gensupport)|v1.7.0|04/24/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[go-restful](https://pkg.go.dev/github.com/emicklei/go-restful)|v0.0.0|05/10/23|dependabot[bot] |MIT|N/A|
+|[go-uuid/uuid](https://pkg.go.dev/code.google.com/p/go-uuid/uuid)|v0.1.2|08/10/22|Graham Davison |N/A|N/A|
+|[gofuzz](https://pkg.go.dev/github.com/google/gofuzz)|v0.0.0|05/10/23|dependabot[bot] |Apache-2.0|N/A|
+|[gojsonpointer](https://pkg.go.dev/github.com/xeipuuv/gojsonpointer)|v0.8.1|04/24/23|dependabot[bot] |Apache-2.0|N/A|
+|[gomega](https://pkg.go.dev/github.com/onsi/gomega)|v1.4.0|05/10/23|dependabot[bot] |MIT|N/A|
+|[govcloudair](https://pkg.go.dev/github.com/vmware/govcloudair)|v0.0.0|04/24/23|dependabot[bot] |Apache-2.0|N/A|
+|[hcl](https://pkg.go.dev/github.com/hashicorp/hcl)|v1.2.0|05/10/23|dependabot[bot] |MPL-2.0|N/A|
+|[httplex](https://pkg.go.dev/golang.org/x/net/lex/httplex)|v0.3.0|04/24/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[iterator](https://pkg.go.dev/google.golang.org/api/iterator)|v1.4.1|04/24/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[json-patch](https://pkg.go.dev/github.com/evanphx/json-patch)|v0.5.10|04/24/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[mapstructure](https://pkg.go.dev/github.com/mitchellh/mapstructure)|v0.5.0|05/10/23|dependabot[bot] |MIT|N/A|
+|[pbkdf2](https://pkg.go.dev/golang.org/x/crypto/pbkdf2)|v0.0.0|04/24/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[pkcs11](https://pkg.go.dev/github.com/miekg/pkcs11)|v1.0.0|04/24/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[pkg/apis/extensions](https://pkg.go.dev/k8s.io/client-go/pkg/apis/extensions)|v0.0.0|04/24/23|dependabot[bot] |Apache-2.0|N/A|
+|[pp](https://pkg.go.dev/github.com/k0kubun/pp)|v1.0.0|04/24/23|dependabot[bot] |MIT|N/A|
+|[properties](https://pkg.go.dev/github.com/magiconair/properties)|v0.0.0|05/10/23|dependabot[bot] |BSD-2-Clause|N/A|
+|[protocol/ec2query](https://pkg.go.dev/github.com/aws/aws-sdk-go/internal/protocol/ec2query)|v1.14.1|05/10/23|dependabot[bot] |Apache-2.0|N/A|
+|[registry/service](https://pkg.go.dev/k8s.io/kubernetes/pkg/registry/service)|v1.1.4|05/10/23|dependabot[bot] |Apache-2.0|N/A|
+|[swift](https://pkg.go.dev/github.com/ncw/swift)|v1.0.0|04/24/23|dependabot[bot] |MIT|N/A|
+|[testify/mock](https://pkg.go.dev/github.com/stretchr/testify/mock)|v1.1.0|04/24/23|dependabot[bot] |MIT|N/A|
+|[virtualmachinedisk](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/management/virtualmachinedisk)|v1.0.1|05/10/23|dependabot[bot] |MIT|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (1)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[aws-sdk](https://www.npmjs.com/aws-sdk)|v2.655.0|N/A|N/A |Apache-2.0|[CVE-2020-28472](https://github.com/advisories/GHSA-rrc9-gqf8-8rwg) (High)|
+|[aws-sdk](https://www.npmjs.com/aws-sdk)|v2.655.0|04/19/20|Kit Ewbank |Apache-2.0|[CVE-2020-28472](https://github.com/advisories/GHSA-rrc9-gqf8-8rwg) (High)|
 
 <br/>
 <div align='center'>
