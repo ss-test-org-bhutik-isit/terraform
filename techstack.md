@@ -35,7 +35,6 @@ DotEspartoORGForPersonal/terraform-provider-aws is built on the following main s
 - [dbForge Query Builder for MySQL](https://www.devart.com/dbforge/mysql/querybuilder/) – Database Tools
 - [dbForge Schema Compare for Redshift/PostgreSQL](https://www.devart.com/dbforge/postgresql/schemacompare/) – Database Tools
 - [EmailOctopus](https://emailoctopus.com/) – Email Marketing
-- [Savio.io](https://www.savio.io/) – Feedback Widget
 - [NextGen Connect](https://www.nextgen.com/products-and-services/integration-engine) – Healthcare
 - [Simple Analytics](https://simpleanalytics.com) – General Analytics
 - [DAGsHub](https://dagshub.com) – Data Science Tools
@@ -60,8 +59,8 @@ DotEspartoORGForPersonal/terraform-provider-aws is built on the following main s
 - [UserExperior](https://www.userexperior.com/) – Heatmap Analytics
 - [Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/managed-workflows-for-apache-airflow/) – Workflow Manager
 - [Spectre.css](https://picturepan2.github.io/spectre/getting-started.html) – Front-End Frameworks
-- [Travis CI](http://travis-ci.com/) – Continuous Integration
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 --- Readme.md Snippet without images End ---
@@ -102,7 +101,6 @@ DotEspartoORGForPersonal/terraform-provider-aws is built on the following main s
 - <img width='25' height='25' src='https://img.stackshare.io/service/21197/default_8a0f32264df8a72e42495ce2cac4974819fe2aef.png' alt='dbForge Query Builder for MySQL'/> [dbForge Query Builder for MySQL](https://www.devart.com/dbforge/mysql/querybuilder/) – Database Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/21199/default_fc2ebc762805baf8c27cb23feb12da62593659c2.png' alt='dbForge Schema Compare for Redshift/PostgreSQL'/> [dbForge Schema Compare for Redshift/PostgreSQL](https://www.devart.com/dbforge/postgresql/schemacompare/) – Database Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/21207/default_4e5599aba925e3b3a2109b439679659542786fed.jpg' alt='EmailOctopus'/> [EmailOctopus](https://emailoctopus.com/) – Email Marketing
-- <img width='25' height='25' src='https://img.stackshare.io/service/21209/default_fd6f4bea3e63552cb3b90f56c124b0f109addbee.png' alt='Savio.io'/> [Savio.io](https://www.savio.io/) – Feedback Widget
 - <img width='25' height='25' src='https://img.stackshare.io/service/21261/default_d293f99ced885f572a3f940a74fbe1f211261a96.jpg' alt='NextGen Connect'/> [NextGen Connect](https://www.nextgen.com/products-and-services/integration-engine) – Healthcare
 - <img width='25' height='25' src='https://img.stackshare.io/service/21298/default_3e94918409fb0890c50a99024c2b47b1df7577e3.jpg' alt='Simple Analytics'/> [Simple Analytics](https://simpleanalytics.com) – General Analytics
 - <img width='25' height='25' src='https://img.stackshare.io/service/21300/default_a169b2bfb5d5868361ec02044e5a39e1896c433d.png' alt='DAGsHub'/> [DAGsHub](https://dagshub.com) – Data Science Tools
@@ -127,8 +125,8 @@ DotEspartoORGForPersonal/terraform-provider-aws is built on the following main s
 - <img width='25' height='25' src='https://img.stackshare.io/service/21784/default_4868b22639885f7e5ae55e012952ca11acc0da00.png' alt='UserExperior'/> [UserExperior](https://www.userexperior.com/) – Heatmap Analytics
 - <img width='25' height='25' src='https://img.stackshare.io/service/21799/default_c1b593d0eeac611b97edee3d68e1f785312c9914.png' alt='Amazon Managed Workflows for Apache Airflow'/> [Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/managed-workflows-for-apache-airflow/) – Workflow Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/21978/default_43fb9ca37debcb28caad4f2c831e072783441496.jpg' alt='Spectre.css'/> [Spectre.css](https://picturepan2.github.io/spectre/getting-started.html) – Front-End Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 --- Readme.md Snippet with images End ---
@@ -138,7 +136,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEspartoORGForPersonal/terraform-provider-aws](https://github.com/DotEspartoORGForPersonal/terraform-provider-aws)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|113<br/>Tools used|11/10/23 <br/>Report generated|
+|112<br/>Tools used|11/24/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -514,7 +512,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (44)
+## Other (43)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21546/default_9d8d550cb66354aaa97db11bda2dadc569edb8ec.png' alt='AppConvertly.com'>
@@ -731,14 +729,6 @@ Full tech stack [here](/techstack.md)
 </td>
 
 <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/21209/default_fd6f4bea3e63552cb3b90f56c124b0f109addbee.png' alt='Savio.io'>
-  <br>
-  <sub><a href="https://www.savio.io/">Savio.io</a></sub>
-  <br>
-  <sub>v0.0.9</sub>
-</td>
-
-<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21306/default_745b6ac852730d7ce9c6b73785d3f5936c7abd7a.jpg' alt='Solati'>
   <br>
   <sub><a href="https://www.solati.co/">Solati</a></sub>
@@ -778,9 +768,7 @@ Full tech stack [here](/techstack.md)
   <sub>v1.8.6</sub>
 </td>
 
-</tr>
-<tr>
-  <td align='center'>
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21841/default_b5a2e282bf6a607a5275246db8d4b596cc0b794e.png' alt='Upfeed'>
   <br>
   <sub><a href="https://www.upfeed.co/">Upfeed</a></sub>
@@ -788,7 +776,9 @@ Full tech stack [here](/techstack.md)
   <sub>v1.7.0</sub>
 </td>
 
-<td align='center'>
+</tr>
+<tr>
+  <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21407/default_50834d775ade6b5f1b26a16b626ef3058b6ccf58.png' alt='WSL'>
   <br>
   <sub><a href="https://docs.microsoft.com/en-us/windows/wsl/about">WSL</a></sub>
@@ -844,9 +834,7 @@ Full tech stack [here](/techstack.md)
   <sub>v1.0.0</sub>
 </td>
 
-</tr>
-<tr>
-  <td align='center'>
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21170/default_f061e6941a00ef2eeb5954eb77a48b7f6626fd91.png' alt='nootiz'>
   <br>
   <sub><a href="https://www.nootiz.com/en/">nootiz</a></sub>
@@ -854,7 +842,9 @@ Full tech stack [here](/techstack.md)
   <sub>v1.7.0</sub>
 </td>
 
-<td align='center'>
+</tr>
+<tr>
+  <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21131/default_9b9bb8bfc9ef61de5963a2296071237110f1274f.png' alt='reZme'>
   <br>
   <sub><a href="https://www.rezme.com">reZme</a></sub>
@@ -888,41 +878,41 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[apiversions](https://pkg.go.dev/github.com/gophercloud/gophercloud/openstack/blockstorage/v1/apiversions)|v0.3.4|04/24/23|dependabot[bot] |Other|N/A|
-|[clientcmd/api](https://pkg.go.dev/k8s.io/kubernetes/pkg/client/unversioned/clientcmd/api)|v1.3.1|04/24/23|dependabot[bot] |Apache-2.0|N/A|
-|[dockerclient](https://pkg.go.dev/github.com/samalba/dockerclient)|v0.0.0|04/24/23|dependabot[bot] |Apache-2.0|N/A|
-|[fsnotify](https://pkg.go.dev/github.com/fsnotify/fsnotify)|v1.5.4|04/24/23|dependabot[bot] |BSD-3-Clause|N/A|
-|[gensupport](https://pkg.go.dev/google.golang.org/api/gensupport)|v1.7.0|04/24/23|dependabot[bot] |BSD-3-Clause|N/A|
-|[go-restful](https://pkg.go.dev/github.com/emicklei/go-restful)|v0.0.0|05/10/23|dependabot[bot] |MIT|N/A|
-|[go-uuid/uuid](https://pkg.go.dev/code.google.com/p/go-uuid/uuid)|v0.1.2|08/10/22|Graham Davison |N/A|N/A|
-|[gofuzz](https://pkg.go.dev/github.com/google/gofuzz)|v0.0.0|05/10/23|dependabot[bot] |Apache-2.0|N/A|
-|[gojsonpointer](https://pkg.go.dev/github.com/xeipuuv/gojsonpointer)|v0.8.1|04/24/23|dependabot[bot] |Apache-2.0|N/A|
-|[gomega](https://pkg.go.dev/github.com/onsi/gomega)|v1.4.0|05/10/23|dependabot[bot] |MIT|N/A|
-|[govcloudair](https://pkg.go.dev/github.com/vmware/govcloudair)|v0.0.0|04/24/23|dependabot[bot] |Apache-2.0|N/A|
-|[hcl](https://pkg.go.dev/github.com/hashicorp/hcl)|v1.2.0|05/10/23|dependabot[bot] |MPL-2.0|N/A|
-|[httplex](https://pkg.go.dev/golang.org/x/net/lex/httplex)|v0.3.0|04/24/23|dependabot[bot] |BSD-3-Clause|N/A|
-|[iterator](https://pkg.go.dev/google.golang.org/api/iterator)|v1.4.1|04/24/23|dependabot[bot] |BSD-3-Clause|N/A|
-|[json-patch](https://pkg.go.dev/github.com/evanphx/json-patch)|v0.5.10|04/24/23|dependabot[bot] |BSD-3-Clause|N/A|
-|[mapstructure](https://pkg.go.dev/github.com/mitchellh/mapstructure)|v0.5.0|05/10/23|dependabot[bot] |MIT|N/A|
-|[pbkdf2](https://pkg.go.dev/golang.org/x/crypto/pbkdf2)|v0.0.0|04/24/23|dependabot[bot] |BSD-3-Clause|N/A|
-|[pkcs11](https://pkg.go.dev/github.com/miekg/pkcs11)|v1.0.0|04/24/23|dependabot[bot] |BSD-3-Clause|N/A|
-|[pkg/apis/extensions](https://pkg.go.dev/k8s.io/client-go/pkg/apis/extensions)|v0.0.0|04/24/23|dependabot[bot] |Apache-2.0|N/A|
-|[pp](https://pkg.go.dev/github.com/k0kubun/pp)|v1.0.0|04/24/23|dependabot[bot] |MIT|N/A|
-|[properties](https://pkg.go.dev/github.com/magiconair/properties)|v0.0.0|05/10/23|dependabot[bot] |BSD-2-Clause|N/A|
-|[protocol/ec2query](https://pkg.go.dev/github.com/aws/aws-sdk-go/internal/protocol/ec2query)|v1.14.1|05/10/23|dependabot[bot] |Apache-2.0|N/A|
-|[registry/service](https://pkg.go.dev/k8s.io/kubernetes/pkg/registry/service)|v1.1.4|05/10/23|dependabot[bot] |Apache-2.0|N/A|
-|[swift](https://pkg.go.dev/github.com/ncw/swift)|v1.0.0|04/24/23|dependabot[bot] |MIT|N/A|
-|[testify/mock](https://pkg.go.dev/github.com/stretchr/testify/mock)|v1.1.0|04/24/23|dependabot[bot] |MIT|N/A|
-|[virtualmachinedisk](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/management/virtualmachinedisk)|v1.0.1|05/10/23|dependabot[bot] |MIT|N/A|
+|[apiversions](https://pkg.go.dev/github.com/gophercloud/gophercloud/openstack/blockstorage/v1/apiversions)|v0.3.4|N/A|N/A |Other|N/A|
+|[clientcmd/api](https://pkg.go.dev/k8s.io/kubernetes/pkg/client/unversioned/clientcmd/api)|v1.3.1|N/A|N/A |Apache-2.0|N/A|
+|[dockerclient](https://pkg.go.dev/github.com/samalba/dockerclient)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
+|[fsnotify](https://pkg.go.dev/github.com/fsnotify/fsnotify)|v1.5.4|N/A|N/A |BSD-3-Clause|N/A|
+|[gensupport](https://pkg.go.dev/google.golang.org/api/gensupport)|v1.7.0|N/A|N/A |BSD-3-Clause|N/A|
+|[go-restful](https://pkg.go.dev/github.com/emicklei/go-restful)|v0.0.0|N/A|N/A |MIT|N/A|
+|[go-uuid/uuid](https://pkg.go.dev/code.google.com/p/go-uuid/uuid)|v0.1.2|N/A|N/A |N/A|N/A|
+|[gofuzz](https://pkg.go.dev/github.com/google/gofuzz)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
+|[gojsonpointer](https://pkg.go.dev/github.com/xeipuuv/gojsonpointer)|v0.8.1|N/A|N/A |Apache-2.0|N/A|
+|[gomega](https://pkg.go.dev/github.com/onsi/gomega)|v1.4.0|N/A|N/A |MIT|N/A|
+|[govcloudair](https://pkg.go.dev/github.com/vmware/govcloudair)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
+|[hcl](https://pkg.go.dev/github.com/hashicorp/hcl)|v1.2.0|N/A|N/A |MPL-2.0|N/A|
+|[httplex](https://pkg.go.dev/golang.org/x/net/lex/httplex)|v0.3.0|N/A|N/A |BSD-3-Clause|N/A|
+|[iterator](https://pkg.go.dev/google.golang.org/api/iterator)|v1.4.1|N/A|N/A |BSD-3-Clause|N/A|
+|[json-patch](https://pkg.go.dev/github.com/evanphx/json-patch)|v0.5.10|N/A|N/A |BSD-3-Clause|N/A|
+|[mapstructure](https://pkg.go.dev/github.com/mitchellh/mapstructure)|v0.5.0|N/A|N/A |MIT|N/A|
+|[pbkdf2](https://pkg.go.dev/golang.org/x/crypto/pbkdf2)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
+|[pkcs11](https://pkg.go.dev/github.com/miekg/pkcs11)|v1.0.0|N/A|N/A |BSD-3-Clause|N/A|
+|[pkg/apis/extensions](https://pkg.go.dev/k8s.io/client-go/pkg/apis/extensions)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
+|[pp](https://pkg.go.dev/github.com/k0kubun/pp)|v1.0.0|N/A|N/A |MIT|N/A|
+|[properties](https://pkg.go.dev/github.com/magiconair/properties)|v0.0.0|N/A|N/A |BSD-2-Clause|N/A|
+|[protocol/ec2query](https://pkg.go.dev/github.com/aws/aws-sdk-go/internal/protocol/ec2query)|v1.14.1|N/A|N/A |Apache-2.0|N/A|
+|[registry/service](https://pkg.go.dev/k8s.io/kubernetes/pkg/registry/service)|v1.1.4|N/A|N/A |Apache-2.0|N/A|
+|[swift](https://pkg.go.dev/github.com/ncw/swift)|v1.0.0|N/A|N/A |MIT|N/A|
+|[testify/mock](https://pkg.go.dev/github.com/stretchr/testify/mock)|v1.1.0|N/A|N/A |MIT|N/A|
+|[virtualmachinedisk](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/management/virtualmachinedisk)|v1.0.1|N/A|N/A |MIT|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (1)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[aws-sdk](https://www.npmjs.com/aws-sdk)|v2.655.0|04/19/20|Kit Ewbank |Apache-2.0|[CVE-2020-28472](https://github.com/advisories/GHSA-rrc9-gqf8-8rwg) (High)|
+|[aws-sdk](https://www.npmjs.com/aws-sdk)|v2.655.0|N/A|N/A |Apache-2.0|[CVE-2020-28472](https://github.com/advisories/GHSA-rrc9-gqf8-8rwg) (High)|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
