@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 DotEspartoORGForPersonal/terraform-provider-aws is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [Golang](http://golang.org/) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -59,15 +60,17 @@ DotEspartoORGForPersonal/terraform-provider-aws is built on the following main s
 - [UserExperior](https://www.userexperior.com/) – Heatmap Analytics
 - [Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/managed-workflows-for-apache-airflow/) – Workflow Manager
 - [Spectre.css](https://picturepan2.github.io/spectre/getting-started.html) – Front-End Frameworks
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 DotEspartoORGForPersonal/terraform-provider-aws is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -125,18 +128,19 @@ DotEspartoORGForPersonal/terraform-provider-aws is built on the following main s
 - <img width='25' height='25' src='https://img.stackshare.io/service/21784/default_4868b22639885f7e5ae55e012952ca11acc0da00.png' alt='UserExperior'/> [UserExperior](https://www.userexperior.com/) – Heatmap Analytics
 - <img width='25' height='25' src='https://img.stackshare.io/service/21799/default_c1b593d0eeac611b97edee3d68e1f785312c9914.png' alt='Amazon Managed Workflows for Apache Airflow'/> [Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/managed-workflows-for-apache-airflow/) – Workflow Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/21978/default_43fb9ca37debcb28caad4f2c831e072783441496.jpg' alt='Spectre.css'/> [Spectre.css](https://picturepan2.github.io/spectre/getting-started.html) – Front-End Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEspartoORGForPersonal/terraform-provider-aws](https://github.com/DotEspartoORGForPersonal/terraform-provider-aws)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|112<br/>Tools used|11/24/23 <br/>Report generated|
+|112<br/>Tools used|12/01/23 <br/>Report generated|
 |------|------|
 </div>
 
