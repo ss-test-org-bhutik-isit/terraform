@@ -1,8 +1,8 @@
-repo_name: DotEspartoORGForPersonal/terraform-provider-aws
-report_id: ef017bc883f10c5d9a3bcdebdc1de968
+repo_name: ss-test-org-bhutik-isit/terraform
+report_id: 88dcc6fe510c5b2014d1ff32f15b38ae
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-26T15:42:08+00:00'
+timestamp: '2024-02-08T12:46:08+00:00'
 requested_by: dependabot[bot]
 provider: github
 branch: main
@@ -18,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -28,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform
   detection_source: Repo Metadata
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
@@ -37,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.teamcity/components/generated/service_orgacct.kt
   detection_source: ".teamcity/components/generated/service_orgacct.kt"
   last_updated_by: Graham Davison
   last_updated_on: 2021-11-09 22:38:56.000000000 Z
@@ -49,6 +52,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -59,6 +63,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform
   detection_source: Repo Metadata
 - name: Smarty
   description: Template engine for PHP
@@ -68,6 +73,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform
   detection_source: Repo Metadata
 - name: Protobuf
   description: Google's data interchange format
@@ -77,6 +83,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Serialization Frameworks
   image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.mod
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-08-15 15:02:46.000000000 Z
@@ -91,7 +98,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/21349/default_094e27ddc20e25f63cdcb9b7eda1dda9c35f2560.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -104,6 +111,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/21978/default_43fb9ca37debcb28caad4f2c831e072783441496.jpg
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.mod
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:36:43.000000000 Z
@@ -117,7 +125,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -131,7 +139,7 @@ tools:
   category: Data Stores
   sub_category: Workflow Manager
   image_url: https://img.stackshare.io/service/21799/default_c1b593d0eeac611b97edee3d68e1f785312c9914.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:36:43.000000000 Z
@@ -144,7 +152,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/21191/default_1d21287b1234e1c633629cd5f671afd79b33b571.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -157,7 +165,7 @@ tools:
   category: Data Stores
   sub_category: Big Data as a Service
   image_url: https://img.stackshare.io/service/21707/default_8a8dd7da278574d984423a5b59b816f079f8b5c9.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:36:43.000000000 Z
@@ -171,7 +179,7 @@ tools:
   category: Data Stores
   sub_category: Big Data as a Service
   image_url: https://img.stackshare.io/service/21529/default_7413c21e0ebfd8eea466763569e8f7defd17e93a.jpg
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:36:43.000000000 Z
@@ -184,7 +192,7 @@ tools:
   category: Data Stores
   sub_category: API Tools
   image_url: https://img.stackshare.io/service/21122/default_1f970871c388438e737793ed23ce9b5099a178cf.jpg
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -197,7 +205,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/21194/default_39d248dbc488d47c5dc8749e6b46f12697de376e.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -210,7 +218,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/21197/default_8a0f32264df8a72e42495ce2cac4974819fe2aef.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -223,7 +231,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/21199/default_fc2ebc762805baf8c27cb23feb12da62593659c2.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-14 11:47:48.000000000 Z
@@ -237,7 +245,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/21187/default_ad21b860d7b33a39205da4940637922485e52b8e.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:37:28.000000000 Z
@@ -251,7 +259,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/21405/default_606db6f1b72bbb18cb2ac7ffea643b8f1fcc4981.jpg
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:37:28.000000000 Z
@@ -264,6 +272,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/vendor/golang.org/x/net/http2/Dockerfile
   detection_source: ".ci/providerlint/vendor/golang.org/x/net/http2/Dockerfile"
   last_updated_by: Graham Davison
   last_updated_on: 2021-09-30 22:07:56.000000000 Z
@@ -277,7 +286,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/21619/default_b1c7a5e89d22a48d20cf2e75ba77e8e26284275e.jpg
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -291,7 +300,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/21148/default_4518d3c5a1f763ea9eb5a5959847ac06b2b3cbe5.jpg
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -303,6 +312,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -312,6 +322,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.github/workflows/acctest-terraform-lint.yml
   detection_source: ".github/workflows/acctest-terraform-lint.yml"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-14 06:57:25.000000000 Z
@@ -325,6 +336,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Microservices Tools
   image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/.semgrep-service-name1.yml
   detection_source: ".ci/.semgrep-service-name1.yml"
   last_updated_by: Dirk Avery
   last_updated_on: 2022-05-23 19:59:12.000000000 Z
@@ -338,7 +350,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/21152/default_be7d0621c1cb8392534d70dac8830cce7a486fd0.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:36:43.000000000 Z
@@ -351,7 +363,7 @@ tools:
   category: Monitoring
   sub_category: Network Monitoring
   image_url: https://img.stackshare.io/service/21358/default_8c3aa81460935ebdae05c8c9783dffe0acc1278c.jpg
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -365,7 +377,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/21147/default_f869ec037993bd2c3967e7b605ca929be6bbf362.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -379,6 +391,7 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.mod
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-05-10 06:06:06.000000000 Z
@@ -392,6 +405,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/examples/two-tier/main.tf
   detection_source: examples/two-tier/main.tf
   last_updated_by: Graham Davison
   last_updated_on: 2020-07-23 00:51:47.000000000 Z
@@ -405,6 +419,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package_manager/49093/default_cdf079d244bded073d455911e6ce679abb1b77ab.png
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/examples/two-tier/main.tf
   detection_source: examples/two-tier/main.tf
   last_updated_by: Graham Davison
   last_updated_on: 2020-07-23 00:51:47.000000000 Z
@@ -419,7 +434,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Go Testing
   image_url: https://img.stackshare.io/service/8695/stretchr.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -432,6 +447,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/vendor/github.com/agext/levenshtein/.travis.yml
   detection_source: ".ci/providerlint/vendor/github.com/agext/levenshtein/.travis.yml"
   last_updated_by: Graham Davison
   last_updated_on: 2021-09-30 22:07:56.000000000 Z
@@ -444,7 +460,7 @@ tools:
   category: Monitoring
   sub_category: Networking Hardware
   image_url: https://img.stackshare.io/service/21126/default_82855a9a63ac94e02248a391b260a94acbafb41a.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-14 11:47:48.000000000 Z
@@ -456,6 +472,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/examples/api-gateway-websocket-chat-app/onconnect/package.json
   detection_source: examples/api-gateway-websocket-chat-app/onconnect/package.json
   last_updated_by: Kit Ewbank
   last_updated_on: 2019-07-28 21:03:13.000000000 Z
@@ -468,7 +485,7 @@ tools:
   category: Application Hosting
   sub_category: Cloud Hosting
   image_url: https://img.stackshare.io/service/21776/default_f27c40bb1134c9bc82c4862853824f8983cb377d.jpg
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:36:43.000000000 Z
@@ -481,7 +498,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Game Development
   image_url: https://img.stackshare.io/service/21759/default_5c53af6aae91062d807462815c519a7745aabf4d.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:36:43.000000000 Z
@@ -495,7 +512,7 @@ tools:
   category: Assets and Media
   sub_category: Screenshots as a Service
   image_url: https://img.stackshare.io/service/21135/default_59aa10a4d0de8cc95af630b37d93ffdd04bc93fd.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -509,7 +526,7 @@ tools:
   category: Analytics
   sub_category: A/B Testing Analytics
   image_url: https://img.stackshare.io/service/21128/default_365d9038c30c48f50098c35273682af3bc86e218.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-14 11:47:48.000000000 Z
@@ -522,7 +539,7 @@ tools:
   category: Analytics
   sub_category: General Analytics
   image_url: https://img.stackshare.io/service/21298/default_3e94918409fb0890c50a99024c2b47b1df7577e3.jpg
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -536,7 +553,7 @@ tools:
   category: Analytics
   sub_category: Heatmap Analytics
   image_url: https://img.stackshare.io/service/21784/default_4868b22639885f7e5ae55e012952ca11acc0da00.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -549,7 +566,7 @@ tools:
   category: Mobile
   sub_category: Cross-Platform Mobile Tools
   image_url: https://img.stackshare.io/service/21546/default_9d8d550cb66354aaa97db11bda2dadc569edb8ec.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -563,7 +580,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Feedback Widget
   image_url: https://img.stackshare.io/service/21120/default_ff503018433e4c15bd8f88f38f956808d71ae76e.jpg
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-14 11:47:48.000000000 Z
@@ -573,7 +590,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21203/default_e83656254ceca8a19a90cf2e6b31c38ba31a23bb.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -587,7 +604,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Property Management
   image_url: https://img.stackshare.io/service/21348/default_1708964b3ede87764620fdb8041cec7b4a275188.jpg
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:36:43.000000000 Z
@@ -598,7 +615,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21845/default_68651d778c8418423d985b3864a908913648b92c.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:36:43.000000000 Z
@@ -611,7 +628,7 @@ tools:
   category: Collaboration
   sub_category: Activity Feeds as a Service
   image_url: https://img.stackshare.io/service/21138/default_1333cc334a57817c9ab69aeb76cfdcafe582056a.jpg
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -625,7 +642,7 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/21300/default_a169b2bfb5d5868361ec02044e5a39e1896c433d.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -639,7 +656,7 @@ tools:
   category: Application Utilities
   sub_category: Healthcare
   image_url: https://img.stackshare.io/service/21139/default_a91af1b38a50bbe8d5c2a2885d3add753139c68e.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -650,7 +667,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21119/default_7d7cdfe126e00b141809117af1af8ba177913dc4.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-14 11:47:48.000000000 Z
@@ -663,7 +680,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Email Marketing
   image_url: https://img.stackshare.io/service/21207/default_4e5599aba925e3b3a2109b439679659542786fed.jpg
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -676,7 +693,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: CRM
   image_url: https://img.stackshare.io/service/21129/default_a6389ef2c20db890998e2b9b194d515eb3e79443.jpg
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -689,7 +706,7 @@ tools:
   category: Back Office
   sub_category: Accounting
   image_url: https://img.stackshare.io/service/21601/default_9e3ad30996dd9561abe373f7d6ad50535688c245.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -703,7 +720,7 @@ tools:
   category: Application Utilities
   sub_category: Cloud Access Management
   image_url: https://img.stackshare.io/service/21341/default_88d8c23f127a6746a8420de2e3d47bdb255aa8db.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -716,7 +733,7 @@ tools:
   category: Back Office
   sub_category: Expense Management
   image_url: https://img.stackshare.io/service/21317/default_73ca6ebd8c497de077074d77950b7e196d533232.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -729,7 +746,7 @@ tools:
   category: Design
   sub_category: Graphic Design
   image_url: https://img.stackshare.io/service/21319/default_5b524a13b50d545f281f91ae8135508b36ce90be.jpg
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:36:43.000000000 Z
@@ -739,7 +756,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21159/default_15d84d743a05c34a32cfd8708e7ef1266d0c4b77.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -750,7 +767,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21161/default_8b04c9d4f8310a7ae636d0b92fdd9fd925afe181.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:36:43.000000000 Z
@@ -763,7 +780,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Customer Profiles
   image_url: https://img.stackshare.io/service/21315/default_499399dc690af0e91d379644dec00880e20c6f5a.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -776,7 +793,7 @@ tools:
   category: Application Utilities
   sub_category: Healthcare
   image_url: https://img.stackshare.io/service/21261/default_d293f99ced885f572a3f940a74fbe1f211261a96.jpg
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -786,6 +803,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21534/default_60d1532dc4af1183e4cbd4e4bd7ed01098499fb5.png
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.mod
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -795,7 +813,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21651/default_9a3d2b24ff68521a199b799149b8c1415f5be9fc.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -806,7 +824,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21931/default_4ca7826f0adcaa1d0edab80159dce2b16e06c99c.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: Graham Davison
   last_updated_on: 2022-08-10 17:20:12.000000000 Z
@@ -819,7 +837,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Customer Community
   image_url: https://img.stackshare.io/service/21118/default_9a7a00fb1b5d7592ccf97fa29f819c3ea64179da.jpg
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-11-21 06:47:45.000000000 Z
@@ -832,7 +850,7 @@ tools:
   category: Collaboration
   sub_category: Project Management
   image_url: https://img.stackshare.io/service/21782/default_fcbbc5adc35ec5a0ba74910b4e7156d57c1d3155.jpg
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:37:28.000000000 Z
@@ -842,7 +860,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21246/default_ea396f63a8974b2c19460a4ea524ea4c3a3a110f.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -852,7 +870,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21121/default_682895d4f0a2777cec582ef7c7f20fd167c1ce11.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-14 11:47:48.000000000 Z
@@ -865,7 +883,7 @@ tools:
   category: Back Office
   sub_category: Business Process Management
   image_url: https://img.stackshare.io/service/21306/default_745b6ac852730d7ce9c6b73785d3f5936c7abd7a.jpg
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -876,7 +894,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21471/default_e6a21c3094795c651f23af890e15de225b38ebb2.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:36:43.000000000 Z
@@ -888,7 +906,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21627/default_a5ddc88cc1e05e790fd145e98b2eaf4c1f47e105.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -900,6 +918,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/vendor/golang.org/x/net/http2/Dockerfile
   detection_source: ".ci/providerlint/vendor/golang.org/x/net/http2/Dockerfile"
   last_updated_by: Graham Davison
   last_updated_on: 2021-09-30 22:07:56.000000000 Z
@@ -911,7 +930,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21250/default_fce6264bf681941b3ae29f7332544704632b6a4a.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -922,7 +941,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21841/default_b5a2e282bf6a607a5275246db8d4b596cc0b794e.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -935,7 +954,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/21407/default_50834d775ade6b5f1b26a16b626ef3058b6ccf58.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -945,7 +964,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21125/default_a37b436cb360d7db5c0521e74ebeb8e50f8ffc58.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -955,7 +974,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21132/default_742c3d430f39b43d45c52805a75a9334d7d97a18.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:36:43.000000000 Z
@@ -967,7 +986,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21180/default_ea71b530d72efa192bf97c176bd3823d8911a9d8.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -977,7 +996,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21151/default_694421a607ee3b50a4add2e20d781a7ad15ab0b4.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -987,6 +1006,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3458/v02jhlxou71qagr6mwet_normal.png
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/helper/awsprovidertype/keyvaluetags/funcs.go
   detection_source: ".ci/providerlint/helper/awsprovidertype/keyvaluetags/funcs.go"
   last_updated_by: Brian Flad
   last_updated_on: 2020-04-30 12:30:53.000000000 Z
@@ -996,7 +1016,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/22004/default_50abed759307f52ce2c594a4b0d1deb1999a4b99.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:36:43.000000000 Z
@@ -1008,7 +1028,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21170/default_f061e6941a00ef2eeb5954eb77a48b7f6626fd91.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:36:43.000000000 Z
@@ -1019,7 +1039,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21131/default_9b9bb8bfc9ef61de5963a2296071237110f1274f.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -1029,7 +1049,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21201/default_80012ffc0fdda5946338789250eab4bd462bfa97.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:36:43.000000000 Z
@@ -1044,7 +1064,7 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/21145/default_e666d7c3f53fbe0134f58c3072ae6af7c46cf562.jpg
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -1058,7 +1078,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -1072,7 +1092,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -1086,7 +1106,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -1100,7 +1120,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -1114,7 +1134,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -1128,7 +1148,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:37:28.000000000 Z
@@ -1141,7 +1161,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: Graham Davison
   last_updated_on: 2022-08-10 17:20:12.000000000 Z
@@ -1155,7 +1175,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:37:28.000000000 Z
@@ -1169,7 +1189,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -1183,7 +1203,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:36:43.000000000 Z
@@ -1197,7 +1217,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -1211,7 +1231,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:37:28.000000000 Z
@@ -1225,7 +1245,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -1239,7 +1259,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -1254,7 +1274,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -1268,7 +1288,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:36:43.000000000 Z
@@ -1282,7 +1302,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -1296,7 +1316,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -1310,7 +1330,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -1324,7 +1344,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -1338,7 +1358,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:37:28.000000000 Z
@@ -1352,7 +1372,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:36:43.000000000 Z
@@ -1366,7 +1386,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:37:28.000000000 Z
@@ -1381,7 +1401,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/tools/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -1396,7 +1416,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/.ci/providerlint/go.sum
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -1410,7 +1430,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/go.sum
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:37:28.000000000 Z
@@ -1424,7 +1444,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16018/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/examples/api-gateway-websocket-chat-app/onconnect/package.json
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/terraform/blob/main/examples/api-gateway-websocket-chat-app/onconnect/package.json
   detection_source: examples/api-gateway-websocket-chat-app/onconnect/package.json
   last_updated_by: Kit Ewbank
   last_updated_on: 2020-04-19 20:27:44.000000000 Z
